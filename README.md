@@ -1,2 +1,2 @@
-# CPP-Practice-
+# CPP-Practice
 C++自我練習
